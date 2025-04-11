@@ -39,3 +39,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 Screenshoot
 
 ![PowerAiChatBot](https://github.com/user-attachments/assets/a1357b3c-26bf-431b-892f-3fadac7ecf03)
+
+price $15
